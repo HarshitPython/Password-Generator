@@ -29,6 +29,7 @@ for char in range(1,nr_letters+1):
 for char in range(1,nr_symbols+1):
     password += random.choice(symbols)
 
+#Now add numbers in password.
 for char in range(1,nr_numbers+1):
     password += random.choice(numbers)
 

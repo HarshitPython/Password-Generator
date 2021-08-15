@@ -25,6 +25,7 @@ password = " "
 for char in range(1,nr_letters+1):
     password += random.choice(letters)
 
+#Now add symbols in password.
 for char in range(1,nr_symbols+1):
     password += random.choice(symbols)
 

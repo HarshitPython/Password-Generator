@@ -8,6 +8,7 @@ letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','
 #Computer will randomly select any no. of numbers.
 numbers = ['0','1','2','3','4','5','6','7','8','9']
 
+#Computer will randomly select any no. of symbols.
 symbols = ['!','#','$','%','&','(',')','*','+']
 
 print("Welcome to the Py Password Generator")
